@@ -9,7 +9,7 @@
 import numpy as np
 # 导入数据集生成器
 from sklearn.datasets import make_regression
-# 导入KNN分类器
+# 导入KNN回归分析器
 from sklearn.neighbors import KNeighborsRegressor
 # 导入画图工具
 import matplotlib.pyplot as plt
