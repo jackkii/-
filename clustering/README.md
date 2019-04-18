@@ -65,6 +65,8 @@ MinPts可以选择＞=维度+1,或依据k-距离曲线:对某个k,观察点到�
 2. sklearn中评估函数  
 3. 无真值评估（轮廓系数） 
 ![](https://github.com/jackkii/ML_try/blob/master/clustering/%E8%BD%AE%E5%BB%93%E7%B3%BB%E6%95%B0.PNG)  
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;a_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;a_i" title="a_i" /></a>:样本i到同簇其他样本的平均距离（样本i簇内不相似度）  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;b_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;b_i" title="b_i" /></a>：样本i到其他某簇中所有样本的平均距离（即样本i簇间不相似度）  
+对于一个样本集合，其轮廓系数为所有样本轮廓系数均值  
 
 
