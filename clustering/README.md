@@ -64,7 +64,7 @@ MinPts可以选择＞=维度+1,或依据k-距离曲线:对某个k,观察点到�
 1. 使用真值评估[ARI(调整rand指数),NMI(归一化互信息)]
 2. sklearn中评估函数  
 3. 无真值评估（轮廓系数） 
-![](https://github.com/jackkii/ML_try/clustering/轮廓系数.PNG)  
+![](https://github.com/jackkii/ML_try/blob/master/clustering/%E8%BD%AE%E5%BB%93%E7%B3%BB%E6%95%B0.PNG)  
 
 
 
