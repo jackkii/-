@@ -2,4 +2,4 @@
 2019/04/24
 
 **关联规则**：反映事物之间的相互依存性和关联性，若两个或多个事物之间存在一定关联关系，则其中一个十五的发生就能够预测与它相关的其他事物的发生。  
-！[]https://github.com/jackkii/ML_try/blob/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%A6%82%E5%BF%B5.PNG
+！[https://github.com/jackkii/ML_try/blob/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E6%A6%82%E5%BF%B5.PNG]
